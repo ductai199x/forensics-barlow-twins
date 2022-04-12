@@ -1,0 +1,4 @@
+{
+    "python.formatting.blackPath": "/home/tai/1-workdir/pyt_tf2/bin/black",
+    "python.formatting.provider": "black"
+}
